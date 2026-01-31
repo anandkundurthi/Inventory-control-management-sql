@@ -9,7 +9,7 @@ This project includes:
 
 ---
 
-## 📌 Project Structure
+##  Project Structure
 Inventory-control-management-sql/
 ├── create_tables.sql — Defines database schema
 ├── insert_data.sql — Inserts sample data into tables
@@ -19,7 +19,7 @@ Inventory-control-management-sql/
 
 ---
 
-## 🗂️ Database Schema
+##  Database Schema
 
 The system includes the following core tables:
 
