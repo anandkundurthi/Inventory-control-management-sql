@@ -30,6 +30,6 @@ The system includes the following core tables:
 | `inventory`        | Current product stock levels |
 | `transactions`     | Records of stock changes (in/out) |
 
-Author_name
+Author_name : 
 Anand K
 
